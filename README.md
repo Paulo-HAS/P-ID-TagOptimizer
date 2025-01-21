@@ -10,6 +10,8 @@ Autores:
 
 O arquivo "adap2.py" possui o sistema de detecção de círculos apenas e é usado para fins de teste.
 
+O arquivo "teste.py" gera dados para serem apresentados posteriormente em "teste2.py"
+
 O arquivo "teste2.py" é responsável por gerar o gráfico das relações entre os parâmetros a serem otimizados e a norma do erro de detecção.
 
 ⚠️IMPORTANTE:
